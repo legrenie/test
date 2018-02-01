@@ -1,0 +1,22 @@
+p {
+    background: white;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 250px;
+    text-align: center;
+    margin: 30px auto;
+    opacity: 0;
+}
+
+p:first-child {
+    opacity: 1;
+}
+
+button {
+    border: 1px solid lightskyblue;
+    background: lightblue;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}

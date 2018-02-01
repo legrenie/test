@@ -1,0 +1,4 @@
+1 creer 4 paragraphe
+2 masquer tout les paragraphe sauf le premier
+3 creer un evenement click sur les paragraphe
+4 creer une condition si je suis le dernier paragraphe renplis le body en rouge si pas affiche le paragraphe suivant
